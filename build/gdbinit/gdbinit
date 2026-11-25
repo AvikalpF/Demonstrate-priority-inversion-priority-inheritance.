@@ -1,0 +1,2 @@
+source E:/SHM_ESP32/build/gdbinit/symbols
+source E:/SHM_ESP32/build/gdbinit/connect
